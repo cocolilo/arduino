@@ -1,3 +1,5 @@
+Tarea que hicimos en telemática II
+
 Código que simula puertas lógicas con una placa Node MCU V3 conectada a un potenciómetro, dos pulsadores en configuración
 PULL DOWN y un led RGB de ánodo común. Las lecturas del potenciometro están escaladas de 0 a 100.
 
