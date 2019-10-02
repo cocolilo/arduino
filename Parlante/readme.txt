@@ -1,1 +1,1 @@
-Experimentos que hice con una bocina de un parlante y una esp8266
+Experimentos que hice con la bocina de un juguete que desarmé y una esp8266
