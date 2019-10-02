@@ -1,3 +1,5 @@
+Proyecto que hicimos en el curso de telemática II
+
 Links:
 https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/
 https://www.hackster.io/nickthegreek82/esp32-deep-sleep-tutorial-4398a7
